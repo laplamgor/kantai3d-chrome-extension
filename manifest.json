@@ -1,3 +1,4 @@
+
 {
     "name": "Kantai 3D",
     "short_name": "Kantai 3D Patcher",
@@ -7,8 +8,28 @@
     "permissions": [
         "webRequest",
         "webRequestBlocking",
-        "activeTab",
-        "<all_urls>"
+        "http://203.104.209.71/",
+        "http://203.104.209.87/",
+        "http://125.6.184.215/",
+        "http://203.104.209.183/",
+        "http://203.104.209.150/",
+        "http://203.104.209.134/",
+        "http://203.104.209.167/",
+        "http://203.104.209.199/",
+        "http://125.6.189.7/",
+        "http://125.6.189.39/",
+        "http://125.6.189.71/",
+        "http://125.6.189.103/",
+        "http://125.6.189.135/",
+        "http://125.6.189.167/",
+        "http://125.6.189.215/",
+        "http://125.6.189.247/",
+        "http://203.104.209.23/",
+        "http://203.104.209.39/",
+        "http://203.104.209.55/",
+        "http://203.104.209.102/",
+        "http://ooi.moe/",
+        "https://ooi.moe/"
     ],
     "background":
     {
@@ -17,7 +38,29 @@
     "content_scripts": [
         {
             "matches": [
-                "http://*/kcs2/index.php*"],
+                "http://203.104.209.71/kcs2/index.php*",
+                "http://203.104.209.87/kcs2/index.php*",
+                "http://125.6.184.215/kcs2/index.php*",
+                "http://203.104.209.183/kcs2/index.php*",
+                "http://203.104.209.150/kcs2/index.php*",
+                "http://203.104.209.134/kcs2/index.php*",
+                "http://203.104.209.167/kcs2/index.php*",
+                "http://203.104.209.199/kcs2/index.php*",
+                "http://125.6.189.7/kcs2/index.php*",
+                "http://125.6.189.39/kcs2/index.php*",
+                "http://125.6.189.71/kcs2/index.php*",
+                "http://125.6.189.103/kcs2/index.php*",
+                "http://125.6.189.135/kcs2/index.php*",
+                "http://125.6.189.167/kcs2/index.php*",
+                "http://125.6.189.215/kcs2/index.php*",
+                "http://125.6.189.247/kcs2/index.php*",
+                "http://203.104.209.23/kcs2/index.php*",
+                "http://203.104.209.39/kcs2/index.php*",
+                "http://203.104.209.55/kcs2/index.php*",
+                "http://203.104.209.102/kcs2/index.php*",
+                "http://ooi.moe/kcs2/index.php*",
+                "https://ooi.moe/kcs2/index.php*"
+            ],
             "all_frames": true,
             "run_at": "document_end",
             "js": ["jquery.min.js", "contentScript.js"]
