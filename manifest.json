@@ -1,0 +1,31 @@
+{
+    "name": "Kantai 3D",
+    "short_name": "Kantai 3D Patcher",
+    "version": "1.0",
+    "description": "Patch Kancolle game client to enable Kantai 3D Mod.",
+    "author": "laplamgor",
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "activeTab",
+        "<all_urls>"
+    ],
+    "background":
+    {
+        "scripts": ["background.js"]
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "http://*/kcs2/index.php*"],
+            "all_frames": true,
+            "run_at": "document_end",
+            "js": ["jquery.min.js", "contentScript.js"]
+        }
+    ],
+    "manifest_version": 2,
+    "icons":
+    {
+        "128": "images/128.png"
+    }
+}
