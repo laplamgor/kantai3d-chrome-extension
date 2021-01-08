@@ -29,7 +29,7 @@ This extension is tested to be compatible with
 ⚠️This extension CANNOT be used together with [Kantai 3D KCCP Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher). 
 Please only choose one of them to patch your game client.
 
-⚠️This extension does not work with https://ooi.poi proxy currently. It is planned to add support in the future.
+⚠️This extension does not work with https://ooi.moe proxy currently. It is planned to add support in the future.
 
 ⚠️This extension may interfere with other local file proxy tools such as KCCP.
 
