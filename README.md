@@ -5,20 +5,23 @@
 This is a Chrome extension for patching the game client to enable Kantai 3D
 
 
-# How to install (Option 1: Offline package)
+# Install via Chrome Web Store (Recommended)
+It is recommended to download this extension from the Chrome Web Store whenever possible.
+
+In this way you can enjoy auto updates.
+
+Download Page:
+https://chrome.google.com/webstore/detail/kantai-3d/ahmlmbealooccdlhfahmbimhaknbidnj
+
+# Install via source code package
+You can always install this extension as an offline package, if you cannot access Google services, or you want to modify my code.
+
 * Download the latest release source code (ZIP): https://github.com/laplamgor/kantai3d-chrome-extension/archive/master.zip
 * Extract it anywhere
 * Open your browser, and navigate to chrome://extensions/
 * Enable "Developer mode"
 * Click "Load unpacked" and select the unzipped folder
 * Enjoy
-
-# How to install (Option 2: Chrome Web Store)
-It is recommended to download this extension whenever possible.
-
-In this way you can enjoy auto updates.
-
-However, the package is still pending review under Google.
 
 # Requirement and Compatibility
 This extension is tested to be compatible with
