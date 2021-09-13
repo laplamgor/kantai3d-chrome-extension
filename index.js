@@ -355,7 +355,7 @@ window.displacementFilter.uniforms.textureScale = this.scale.x;
     
     
     function springUpdate(x1, y1, x2, y2) {
-        if (window.jiggleStaticFlags[x1 + y1 * window.jiggleMeshW.w] && !window.jiggleStaticFlags[x2 + y2 * window.jiggleMeshW.w]) 
+        if (window.jiggleStaticFlags[x1 + y1 * window.jiggleMeshW.w] && window.jiggleStaticFlags[x2 + y2 * window.jiggleMeshW.w]) 
             return;
     
         var distanceOrigin = (x2 - x1) * window.gridW + (y2 - y1) * window.gridH;
