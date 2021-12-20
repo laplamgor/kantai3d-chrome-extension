@@ -2,7 +2,7 @@
 {
     "name": "Kantai3D",
     "short_name": "Kantai3D Patcher",
-    "version": "2.0",
+    "version": "2.2",
     "description": "Patch Kancolle game client to enable Kantai3D Mod.",
     "author": "laplamgor",
     "permissions": [
