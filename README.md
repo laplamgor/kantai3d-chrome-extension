@@ -2,7 +2,7 @@
 
 # Kantai3D Chrome Extension ![128](https://user-images.githubusercontent.com/11514317/103167807-40271080-4869-11eb-97b1-db51d5d39a0c.png)
 
-This is a Chrome extension for patching the game client to enable Kantai3D
+This is a Chrome extension for patching the game client to enable Kantai3D and unlock high refresh rate.
 
 
 # Install via Chrome Web Store (Recommended)
@@ -25,14 +25,13 @@ You can always install this extension as an offline package if you cannot access
 
 # Requirement and Compatibility
 This extension is tested to be compatible with
-* Google Chrome 87+
+* Google Chrome 88+ (It is a requirement for the new chrome extension Manifest V3 standard)
 * With or without KC3 Kai
 * Direction connection to the game server or generic VPN services in general
+* Also work with https://ooi.moe
 
 ⚠️This extension CANNOT be used together with [Kantai3D KCCP Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher). 
 Please only choose one of them to patch your game client.
-
-⚠️This extension does not work with https://ooi.moe proxy currently. It is planned to add support in the future.
 
 ⚠️This extension may interfere with other local file proxy tools such as KCCP.
 
