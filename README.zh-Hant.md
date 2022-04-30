@@ -4,7 +4,7 @@
 
 # Kantai3D Chrome 擴充功能 ![128](https://user-images.githubusercontent.com/11514317/103167807-40271080-4869-11eb-97b1-db51d5d39a0c.png)
 
-This is a Chrome extension for patching the game client to enable Kantai3D and unlock high refresh rate.
+本 Chrome 擴充功能可以為遊戲客戶端打上 Kantai3D 補丁，並解除原有刷新率限制。
 
 
 # 經 Chrome 線上應用程式商店安裝 (推薦)
