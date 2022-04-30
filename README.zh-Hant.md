@@ -37,16 +37,15 @@ https://chrome.google.com/webstore/detail/kantai-3d/ahmlmbealooccdlhfahmbimhaknb
 
 ⚠️本擴充功能可能與其他本地代理工具衝突，例如KCCP。
 
-如果您遇上奇怪的現象，請立刻停用本擴充功能，並向我回報問題。
+如果您遇上奇怪的現象，請立刻停用本擴充功能，並聯絡回報問題。
 
-# Disclaimer
-Kantai3D is not an officially approved program. Using it may be against the Terms of Service of DMM.
+# 免責聲明
+Kantai3D並非官方正式同意使用的程式。使用Kantai3D可能違反DMM遊戲服務使用條款。
 
-Kantai3D modifies your local game client (main.js) in order to achieve the visual effects but does not modify any in-game API request and response. It does not affect your normal gameplay or game balance. 
+Kantai3D需要修改本地的遊戲客戶端以達成顯示效果，但不會修改任何遊戲內API收發，不會干預原本的遊戲流程或遊戲平衡。
 
-Please use it at your own risk. 
+請自行承擔使用風險。
 
+本MOD不含任何原遊戲資源或官方代碼。所使用的自定義深度圖都是完全手工制作。
 
-This mod alone does not include any data from the origin game. All depth maps used are also 100% hand-drawn. 
-
-回報問題、查詢：laplamgor@gmail.com
+如有疑問請聯絡 laplamgor@gmail.com
