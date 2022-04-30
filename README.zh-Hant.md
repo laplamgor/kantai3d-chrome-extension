@@ -1,41 +1,43 @@
-[⬅️ back to top repo](https://github.com/laplamgor/kantai3d)
+[⬅️ 回到頂部](https://github.com/laplamgor/kantai3d)
 
-# Kantai3D Chrome Extension ![128](https://user-images.githubusercontent.com/11514317/103167807-40271080-4869-11eb-97b1-db51d5d39a0c.png)
+其他語言：[English](https://github.com/laplamgor/kantai3d-chrome-extension/blob/master/README.md) [日本語](https://github.com/laplamgor/kantai3d-chrome-extension/blob/master/README.ja.md)
+
+# Kantai3D Chrome 擴充功能 ![128](https://user-images.githubusercontent.com/11514317/103167807-40271080-4869-11eb-97b1-db51d5d39a0c.png)
 
 This is a Chrome extension for patching the game client to enable Kantai3D and unlock high refresh rate.
 
 
-# Install via Chrome Web Store (Recommended)
-It is recommended to download this extension from the Chrome Web Store whenever possible.
+# 經 Chrome 線上應用程式商店安裝 (推薦)
+極度推薦使用 Chrome 線上應用程式商店安裝本擴充功能，
 
-In this way, you can enjoy auto-updates.
+線上應用程式商店可在未來自動更新本擴充功能。
 
-Download Page:
+下載頁面:
 https://chrome.google.com/webstore/detail/kantai-3d/ahmlmbealooccdlhfahmbimhaknbidnj
 
-# Install via source code package
-You can always install this extension as an offline package if you cannot access Google services, or you want to modify my code.
+# 使用源碼安裝
+如果您無法存取 Google 服務，或者想進一步修改我的代碼，您可以使用離線方式直接用源碼安裝本擴充功能
 
-* Download the latest release source code (ZIP): https://github.com/laplamgor/kantai3d-chrome-extension/archive/master.zip
-* Extract it anywhere
-* Open your browser, and navigate to chrome://extensions/
-* Enable "Developer mode"
-* Click "Load unpacked" and select the unzipped folder
-* Enjoy
+* 下載最新版本的源代碼 (ZIP壓縮): https://github.com/laplamgor/kantai3d-chrome-extension/archive/master.zip
+* 解壓縮至任意目錄
+* 啟動Chrome，打開頁面 chrome://extensions/
+* 在右上角打開 開發人員模式
+* 在左上角點擊 載入未封裝項目 並選擇您的解壓目錄
+* 可以開始使用Kantai3D了
 
-# Requirement and Compatibility
-This extension is tested to be compatible with
-* Google Chrome 88+ (It is a requirement for the new chrome extension Manifest V3 standard)
-* With or without KC3 Kai
-* Direction connection to the game server or generic VPN services in general
-* Also work with https://ooi.moe
+# 系統需求及兼容性
+本擴充功能經測試並兼容以下程式：
+* Google Chrome 88+ (chrome 擴充程式 Manifest V3 規格的最低需求)
+* 可同時使用 KC3改
+* 直連遊戲服務器 或 經系統級別的網絡代理
+* 可用於在線緩存 https://ooi.moe
 
-⚠️This extension CANNOT be used together with [Kantai3D KCCP Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher). 
-Please only choose one of them to patch your game client.
+⚠️不能用時使用本擴充功能及 [Kantai3D KCCP Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher). 
+請在兩者之間選擇其中一種補丁方法。
 
-⚠️This extension may interfere with other local file proxy tools such as KCCP.
+⚠️本擴充功能可能與其他本地代理工具衝突，例如KCCP。
 
-If you encounter any wired behavior please immediately stop using the extension and report the issue to me.
+如果您遇上奇怪的現象，請立刻停用本擴充功能，並向我回報問題。
 
 # Disclaimer
 Kantai3D is not an officially approved program. Using it may be against the Terms of Service of DMM.
@@ -47,4 +49,4 @@ Please use it at your own risk.
 
 This mod alone does not include any data from the origin game. All depth maps used are also 100% hand-drawn. 
 
-If you have any questions or queries, please contact me at laplamgor@gmail.com
+回報問題、查詢：laplamgor@gmail.com
