@@ -15,7 +15,6 @@
 https://chrome.google.com/webstore/detail/kantai-3d/ahmlmbealooccdlhfahmbimhaknbidnj
 
 # ソースコードパッケージを使用してインストールする（デベロッパー向け）
-You can always install this extension as an offline package if you cannot access Google services, or you want to modify my code.
 
 * 最新リリースのソースコードをダウンロードします (ZIP): https://github.com/laplamgor/kantai3d-chrome-extension/archive/master.zip
 * どこにでも解凍します。
