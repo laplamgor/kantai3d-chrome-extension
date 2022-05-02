@@ -6,6 +6,9 @@
 
 これは、Kantai3Dを使用するようにゲームクライアントにパッチを適用するためのChrome拡張機能です。
 
+![](https://img.shields.io/chrome-web-store/users/ahmlmbealooccdlhfahmbimhaknbidnj?label=chrome%20web%20store%20users)
+![](https://img.shields.io/chrome-web-store/v/ahmlmbealooccdlhfahmbimhaknbidnj?label=chrome%20web%20store%20version)
+
 # Chrome ウェブストアのページ を使用してインストールする（おすすめされた）
 この拡張機能はChromeウェブストアからダウンロードすることをお勧めします。
 
