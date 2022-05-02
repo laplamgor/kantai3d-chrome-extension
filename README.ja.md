@@ -34,7 +34,7 @@ Please only choose one of them to patch your game client.
 
 ⚠️This extension may interfere with other local file proxy tools such as KCCP.
 
-If you encounter any wired behavior please immediately stop using the extension and report the issue to me.
+⚠️不具合が発生した場合は、すぐに拡張機能の使用を中止して問題を報告してください。
 
 # 免責事項
 Kantai3Dは、ゲーム内APIのリクエストとレスポンスを変更したり、一般ゲームプレイに影響を与えたりすることはありません。 ただし、Kantai3Dは正式に承認されたプログラムではありません。
