@@ -37,7 +37,7 @@ https://chrome.google.com/webstore/detail/kantai-3d/ahmlmbealooccdlhfahmbimhaknb
 
 ⚠️本擴充功能可能與其他本地代理工具衝突，例如KCCP。
 
-如果您遇上奇怪的現象，請立刻停用本擴充功能，並聯絡回報問題。
+⚠️如果您遇上奇怪的現象，請立刻停用本擴充功能，並聯絡回報問題。
 
 # 免責聲明
 Kantai3D並非官方正式同意使用的程式。使用Kantai3D可能違反DMM遊戲服務使用條款。
