@@ -6,6 +6,8 @@ Other Languages: [繁體中文](https://github.com/laplamgor/kantai3d-chrome-ext
 
 This is a Chrome extension for patching the game client to enable Kantai3D and unlock high refresh rate.
 
+![](https://img.shields.io/chrome-web-store/users/ahmlmbealooccdlhfahmbimhaknbidnj?label=chrome%20web%20store%20users)
+![](https://img.shields.io/chrome-web-store/v/ahmlmbealooccdlhfahmbimhaknbidnj?label=chrome%20web%20store%20version)
 
 # Install via Chrome Web Store (Recommended)
 It is recommended to download this extension from the Chrome Web Store whenever possible.
