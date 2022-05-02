@@ -37,7 +37,7 @@ Please only choose one of them to patch your game client.
 
 ⚠️This extension may interfere with other local file proxy tools such as KCCP.
 
-If you encounter any wired behavior please immediately stop using the extension and report the issue to me.
+⚠️If you encounter any wired behavior please immediately stop using the extension and report the issue to me.
 
 # Disclaimer
 Kantai3D is not an officially approved program. Using it may be against the Terms of Service of DMM.
