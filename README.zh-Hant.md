@@ -6,6 +6,9 @@
 
 本 Chrome 擴充功能可以為遊戲客戶端打上 Kantai3D 補丁，並解除原有刷新率限制。
 
+![](https://img.shields.io/chrome-web-store/users/ahmlmbealooccdlhfahmbimhaknbidnj?label=chrome%20web%20store%20users)
+![](https://img.shields.io/chrome-web-store/v/ahmlmbealooccdlhfahmbimhaknbidnj?label=chrome%20web%20store%20version)
+
 
 # 經 Chrome 線上應用程式商店安裝 (推薦)
 極度推薦使用 Chrome 線上應用程式商店安裝本擴充功能，
