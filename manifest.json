@@ -2,8 +2,9 @@
 {
     "name": "Kantai3D",
     "short_name": "Kantai3D Patcher",
-    "version": "3.0",
-    "description": "Patch Kancolle game client to enable Kantai3D Mod.",
+    "version": "3.1",
+    "description": "__MSG_appDesc__",
+    "default_locale": "en",
     "author": "laplamgor",
     "permissions": [
         "declarativeNetRequest"
