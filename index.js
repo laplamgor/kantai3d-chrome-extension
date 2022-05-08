@@ -41,7 +41,7 @@ function patchMainJs(contents) {
             setting_text2 = '追加の深度マップはAIによって生成され、\\nカスタム手描き深度マップなしでCGに\\nよって使用されます。3D効果の品質は、\\n比較すると粗くなります。\\n\\n変更は、次回母港に戻ったときに有効に\\nなります。';
             break;
         } else if (['zh-HK', 'zh-TW'].indexOf(window.navigator.languages[i]) != -1) {
-            setting_text1 = 'Kantai3D v3.0\\n\\nExtra Depth Maps';
+            setting_text1 = 'Kantai3D v3.0\\n\\n使用額外深度圖';
             setting_text2 = '額外深度圖由深度學習生成，\\n可以支持未有手繪深度圖的立繪。\\n但立體效果品質普遍較粗糙。\\n\\n變更會在下次返回母港時生效。';
             break;
         } else if (['zh-CN'].indexOf(window.navigator.languages[i]) != -1) {
