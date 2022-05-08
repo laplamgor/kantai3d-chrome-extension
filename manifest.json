@@ -6,7 +6,6 @@
     "description": "Patch Kancolle game client to enable Kantai3D Mod.",
     "author": "laplamgor",
     "permissions": [
-        "webRequest",
         "declarativeNetRequest"
     ],
     "host_permissions": [
