@@ -2,7 +2,7 @@
 {
     "name": "Kantai3D",
     "short_name": "Kantai3D Patcher",
-    "version": "3.2",
+    "version": "3.3",
     "description": "__MSG_appDesc__",
     "default_locale": "en",
     "author": "laplamgor",
