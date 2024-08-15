@@ -1,3 +1,5 @@
 *.zip
 
 _metadata/generated_indexed_rulesets/*
+
+js/*
